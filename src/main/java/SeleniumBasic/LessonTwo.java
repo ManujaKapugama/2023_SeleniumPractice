@@ -36,6 +36,6 @@ public class LessonTwo {
         // driver.findElement(By.linkText("")).getText();
 
         driver.close();
-
+        driver.quit();
     }
 }
